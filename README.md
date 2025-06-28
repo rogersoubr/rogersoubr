@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Quicksand&pause=2000&color=F7F7F7&vCenter=true&width=435&lines=Welcome+!;My+name+is+Roger.;I+have+19+year+old+!;I+%E2%9D%A4%EF%B8%8F+computing.)](https://git.io/typing-svg)</p>
+
+###
+
 <p align="left">Young student of Computational Mathematics at UFMG and full stack web programming at Programadores do Amanhã. Communicative and proactive, looking for opportunities.</p>
 
 ###
@@ -9,8 +13,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogersoub&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogersoub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rogersoubr&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rogersoubr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
