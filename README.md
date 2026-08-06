@@ -3,12 +3,11 @@
   
   <br><br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Quicksand&pause=2000&color=F5D8CB3&vCenter=true&width=250&lines=Welcome+!;My+name+is+Roger.;I+have+20+years+old+!;I+%E2%9D%A4%EF%B8%8F+computing." alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=2000&color=5D8CB3&vCenter=true&width=450&height=50&lines=Welcome+!;My+name+is+Roger.;I+have+20+years+old+!;I+%E2%9D%A4%EF%B8%8F+computing." alt="Typing SVG" />
+</a>
 </div>
 <br>
-#0D1117
 <h3 align="center">Young student of Computational Mathematics at UFMG</h3>
 
 - 🌱 Data engineering experience at Localiza&CO.
@@ -131,12 +130,7 @@
 <br>
 
 <!-- Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogersoubr/rogersoubr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogersoubr/rogersoubr/output/pacman-contribution-graph.svg">
-  
-  ![pacman graph](https://rogersoubr.github.io/rogersoubr/pacman-contribution-graph.svg)
-</picture>
+<img src="https://rogersoubr.github.io/rogersoubr/pacman-contribution-graph.svg" alt="pacman contribution graph" width="800" style="max-width:100%;">
 
 
 <br>
