@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=150&section=header" alt="Header do meu Perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5D8CB3&height=150&section=header" alt="Header do meu Perfil" />
   
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Quicksand&pause=2000&color=FF0000&vCenter=true&width=250&lines=Welcome+!;My+name+is+Roger.;I+have+20+years+old+!;I+%E2%9D%A4%EF%B8%8F+computing." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Quicksand&pause=2000&color=F5D8CB3&vCenter=true&width=250&lines=Welcome+!;My+name+is+Roger.;I+have+20+years+old+!;I+%E2%9D%A4%EF%B8%8F+computing." alt="Typing SVG" />
   </a>
 </div>
-
 <br>
-
+#0D1117
 <h3 align="center">Young student of Computational Mathematics at UFMG</h3>
 
 - 🌱 Data engineering experience at Localiza&CO.
 - 🔭 Full stack web programming at Programadores do Amanhã.
 - 🧐 Communicative and proactive, looking for opportunities.
 > I intend to develop my blockchain skills, so I am combining full-stack development with data engineering.
-## 📊 Data Engineering Stack
 
+
+## 📊 Contacts
 
 <br>
 
@@ -70,8 +70,11 @@
 <br>
 
 ---
+<div align="center">
 
 ## 💻 Full Stack Development
+  <img src="https://raw.githubusercontent.com/rogersoubr/rogersoubr/main/profile-summary-card-output/city_lights/2-most-commit-language.svg" align="center" />
+</div>  
 
 ### 🎨 Frontend 
 <div>
@@ -122,17 +125,21 @@
   
 ## 📈 Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogersoubr&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://raw.githubusercontent.com/rogersoubr/rogersoubr/main/profile-summary-card-output/city_lights/0-profile-details.svg" align="center" />
 </div>  
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogersoubr&hide_border=true&layout=compact" align="center" />
-</div>  
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogersoubr/rogersoubr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogersoubr/rogersoubr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rogersoubr/rogersoubr/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=150&section=footer" alt="Footer do meu Perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5D8CB3&height=150&section=footer" alt="Footer do meu Perfil" />
 </div>
