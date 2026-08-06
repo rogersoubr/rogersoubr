@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=250&section=header" alt="Header do meu Perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=150&section=header" alt="Header do meu Perfil" />
   
-  <br>
+  <br><br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Quicksand&pause=2000&color=FF0000&vCenter=true&width=250&lines=Welcome+!;My+name+is+Roger.;I+have+20+years+old+!;I+%E2%9D%A4%EF%B8%8F+computing." alt="Typing SVG" />
   </a>
 </div>
 
-<table style="border-collapse: collapse; border: none;">
+<br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="65%">
       <h3 align="center">Young student of Computational Mathematics at UFMG</h3>
@@ -35,11 +37,10 @@
     </td>
   </tr>
 </table>
-
  
 ## 📊 Data Engineering Stack
 
-<table style="border-collapse: collapse; border: none;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -70,7 +71,7 @@
 
 ## 💻 Full Stack Development
 
-<table style="border-collapse: collapse; border: none;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -120,9 +121,7 @@
 </tr>
 </table>
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rogersoubr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -131,7 +130,6 @@
 
 <br/>  
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=250&section=footer" alt="Footer do meu Perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=150&section=footer" alt="Footer do meu Perfil" />
 </div>
