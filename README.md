@@ -134,7 +134,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogersoubr/rogersoubr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogersoubr/rogersoubr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rogersoubr/rogersoubr/output/pacman-contribution-graph.svg">
+  
+  ![pacman graph](https://rogersoubr.github.io/rogersoubr/pacman-contribution-graph.svg)
 </picture>
 
 
