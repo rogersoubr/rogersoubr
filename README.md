@@ -1,11 +1,3 @@
-<style>
-  *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-</style>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=250&section=header" alt="Header do meu Perfil" />
   
@@ -16,7 +8,7 @@
   </a>
 </div>
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td valign="top" width="65%">
       <h3 align="center">Young student of Computational Mathematics at UFMG</h3>
@@ -47,7 +39,7 @@
  
 ## 📊 Data Engineering Stack
 
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
 <td valign="top" width="50%">
 
@@ -78,7 +70,7 @@
 
 ## 💻 Full Stack Development
 
-<table>
+<table style="border-collapse: collapse; border: none;">
 <tr>
 <td valign="top" width="33%">
 
