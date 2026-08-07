@@ -36,13 +36,12 @@
 
 ---
 
+<div align="center">
+
 ## 📊 Data Engineering Stack
 
 ### ⚙️ Extract Transform Load
-- Airflow | Data Build Tool (DBT) | Apache Spark
-
 <br>
-
 <div>
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
   <a href="https://cloud.google.com/" target="_blank"><img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a> 
@@ -55,8 +54,6 @@
 <br>
 
 ### 📈 Business Intelligence 
-- Qlik | Insights | SQL
-
 <br>
 
 <div>
@@ -66,6 +63,20 @@
   <a href="https://www.mysql.com/" target="_blank"><img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a> 
 </div> 
 
+### 🚀 DevOps & Tools
+<br>
+<div>
+  <a href="https://www.linux.org/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
+  <a href="https://github.com/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a> 
+  <a href="https://www.python.org/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
+</div>
+
+<br>
+
+</div>
+
 <br>
 
 ---
@@ -73,7 +84,7 @@
 
 ## 💻 Full Stack Development
   <img src="https://raw.githubusercontent.com/rogersoubr/rogersoubr/main/profile-summary-card-output/city_lights/2-most-commit-language.svg" align="center" />
-</div>  
+  
 
 ### 🎨 Frontend 
 <div>
@@ -107,15 +118,6 @@
   <a href="https://www.prisma.io/" target="_blank"><img style="margin-right: 10px; margin-bottom: 10px;" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a> 
 </div>
 
-<br>
-
-### 🚀 DevOps & Tools
-<div>
-  <a href="https://www.linux.org/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
-  <a href="https://github.com/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a> 
-  <a href="https://www.python.org/" target="_blank"><img style="margin-right: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
 </div>
 
 <br>
