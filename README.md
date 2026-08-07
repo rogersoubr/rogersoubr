@@ -34,11 +34,12 @@
 
 <br>
 
----
 
-<div align="center">
+
 
 ## 📊 Data Engineering Stack
+
+<div align="center">
 
 ### ⚙️ Extract Transform Load
 <br>
@@ -79,10 +80,9 @@
 
 <br>
 
----
+## 💻 Full Stack Development
 <div align="center">
 
-## 💻 Full Stack Development
   <img src="https://raw.githubusercontent.com/rogersoubr/rogersoubr/main/profile-summary-card-output/city_lights/2-most-commit-language.svg" align="center" />
   
 
@@ -122,19 +122,16 @@
 
 <br>
 
----
   
 ## 📈 Github Stats  
 <div align="center">
   <img src="https://raw.githubusercontent.com/rogersoubr/rogersoubr/main/profile-summary-card-output/city_lights/0-profile-details.svg" align="center" />
-</div>  
+  
 
 <br>
 
-<!-- Pacman -->
-<img src="https://rogersoubr.github.io/rogersoubr/pacman-contribution-graph.svg" alt="pacman contribution graph" width="800" style="max-width:100%;">
-
-
+<img src="https://raw.githubusercontent.com/rogersoubr/rogersoubr/gh-pages/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" width="800" style="max-width:100%;">
+</div>
 <br>
 
 <div align="center">
