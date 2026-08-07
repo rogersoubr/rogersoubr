@@ -29,6 +29,8 @@
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXRGPQcHxkfJCXcqjVDCrMPdfszHXPmgSKdQKtvZLZxhdPDjlsjrZdMQvJLBQBpGDnqSH" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo" />
+
+  ## rogersoubr@ufmg.br
   </a>
 </div>
 
